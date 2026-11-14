@@ -1,6 +1,6 @@
 # Launch checklist (template owner)
 
-1. `node scripts/brand.js --github YOUR_USERNAME --name "YOUR_NAME"` — run **once** (fills in your name everywhere, rebuilds previews).
+1. `node scripts/brand.js --github Muhtasim-Masum-Hasnayen --name "Muhtasim Masum Hasnayen"` — run **once** (fills in your name everywhere, rebuilds previews).
    *(After running it, this line shows your real values.)*
 2. Create a **public** repo `devverse-profile`, push everything, make sure the default branch is `main`
    (credit auto-restore fetches `creator.json` from `main`).
