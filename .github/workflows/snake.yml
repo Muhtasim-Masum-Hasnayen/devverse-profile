@@ -13,6 +13,8 @@ permissions:
 
 jobs:
   snake:
+    # skip in the template repo itself; runs in every user's profile repo
+    if: github.repository != 'Muhtasim-Masum-Hasnayen/devverse-profile'
     runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
