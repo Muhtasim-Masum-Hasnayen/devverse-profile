@@ -1,0 +1,15 @@
+{
+  "name": "devverse-profile",
+  "version": "1.0.0",
+  "description": "DevVerse - premium animated GitHub profile template for CSE students. Fork, edit config.yml, go live.",
+  "private": true,
+  "license": "SEE LICENSE IN LICENSE",
+  "engines": { "node": ">=18" },
+  "scripts": {
+    "build": "node scripts/generate.js",
+    "demo": "node scripts/generate.js --demo",
+    "brand": "node scripts/brand.js"
+  },
+  "keywords": ["github-profile", "readme-template", "cse", "hacker-theme", "animated-svg"],
+  "author": "YOUR_NAME (https://github.com/YOUR_USERNAME)"
+}

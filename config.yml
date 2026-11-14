@@ -1,0 +1,89 @@
+# =====================================================================
+#  DevVerse  -  the ONLY file you need to edit.
+#  1) Change github_username (this switches the generator on)
+#  2) Fill in your details below
+#  3) Commit. GitHub Actions rebuilds your profile README automatically.
+#  Tip: wrap any text that contains ":" or "#" in "double quotes".
+# =====================================================================
+
+# ---------- Identity ----------
+name: "Your Name"
+github_username: "yourusername"     # <- CHANGE THIS (must match your GitHub username)
+role: "CSE Student | Cyber Security Learner"
+location: "Dhaka, Bangladesh"
+bio:
+  - "Computer Science & Engineering student who loves building things."
+  - "I break things (ethically) to learn how to secure them."
+
+# ---------- Look & feel ----------
+# matrix | cyberpunk | dracula | tokyo | ocean
+theme: matrix
+
+# Lines that type out under your banner (your name greeting is added automatically)
+taglines:
+  - "CSE Student"
+  - "Full-Stack Developer"
+  - "Cyber Security Enthusiast"
+  - "Open Source Contributor"
+
+# ---------- Skills ----------
+# Icon IDs from https://skillicons.dev  (e.g. py, cpp, c, js, ts, java, react, nodejs,
+# php, mysql, mongodb, linux, bash, git, github, docker, vscode, figma, flask, django ...)
+skills: [py, cpp, c, js, ts, react, nodejs, mysql, linux, bash, git, docker, vscode]
+
+# ---------- What are you up to? (shown in the "now" cards) ----------
+learning:
+  - "Data Structures & Algorithms"
+  - "Ethical Hacking & CTFs"
+  - "System Design"
+building:
+  - "My awesome portfolio website"
+  - "A tiny open-source CLI tool"
+exploring:
+  - "Reverse Engineering"
+  - "Cloud & DevOps"
+  - "AI / Machine Learning"
+
+# ---------- Cyber lab section ----------
+cyber_focus: ["Network Security", "Web Pentesting", "CTF", "Linux Hardening"]
+
+# ---------- Projects (repo names under your account; they appear as pinned cards) ----------
+projects: []        # example: [my-portfolio, cool-cli-tool, ctf-writeups]
+
+# ---------- Social links (leave empty to hide). Handle or full URL both work ----------
+socials:
+  linkedin: ""      # e.g. your-handle
+  twitter: ""
+  facebook: ""
+  instagram: ""
+  youtube: ""
+  discord: ""
+  telegram: ""
+  medium: ""
+  devto: ""
+  leetcode: ""
+  codeforces: ""
+  tryhackme: ""
+  hackthebox: ""
+  portfolio: ""     # full URL
+  email: ""
+
+# ---------- Sections on/off ----------
+features:
+  banner: true
+  typing: true
+  socials: true
+  visitors: true
+  terminal: true
+  setup_scene: true       # animated "coding at night" desk scene
+  skills: true
+  now: true
+  cyber: true             # matrix/hacker terminal
+  projects: true
+  stats: true
+  streak: true
+  languages: true
+  activity_graph: true
+  snake: true             # needs snake.yml workflow (included)
+  contrib_3d: true        # needs contrib3d.yml workflow (included)
+  joke: true              # daily dev joke
