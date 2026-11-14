@@ -9,7 +9,7 @@
 **Fork. Edit one file. Go live.**
 
 <a href="https://github.com/Muhtasim-Masum-Hasnayen/devverse-profile/generate"><img src="https://img.shields.io/badge/USE%20THIS%20TEMPLATE-00ff41?style=for-the-badge&logo=github&logoColor=black" alt="Use this template"/></a>
-<a href="https://github.com/Muhtasim-Masum-Hasnayen/devverse-profile/stargazers"><img src="https://img.shields.io/github/stars/YOUR_USERNAME/devverse-profile?style=for-the-badge&logo=github&label=STARS&color=ffd700&labelColor=051a0d" alt="Stars"/></a>
+<a href="https://github.com/Muhtasim-Masum-Hasnayen/devverse-profile/stargazers"><img src="https://img.shields.io/github/stars/Muhtasim-Masum-Hasnayen/devverse-profile?style=for-the-badge&logo=github&label=STARS&color=ffd700&labelColor=051a0d" alt="Stars"/></a>
 <a href="https://github.com/Muhtasim-Masum-Hasnayen"><img src="https://img.shields.io/github/followers/Muhtasim-Masum-Hasnayen?style=for-the-badge&logo=github&label=FOLLOW&color=19d3a2&labelColor=051a0d" alt="Followers"/></a>
 
 > ## ⭐ Enjoying DevVerse?
