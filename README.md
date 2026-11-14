@@ -13,7 +13,7 @@
 <a href="https://github.com/YOUR_USERNAME"><img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&logo=github&label=FOLLOW&color=19d3a2&labelColor=051a0d" alt="Followers"/></a>
 
 > ## ⭐ Enjoying DevVerse?
-> **Please [star this repository](https://github.com/YOUR_USERNAME/devverse-profile)** and **[follow @YOUR_USERNAME](https://github.com/YOUR_USERNAME)** — it is free and it really helps this project reach more students. Thank you! 💚
+> **Please [star this repository](https://github.com/Muhtasim-Masum-Hasnayen/devverse-profile)** and **[follow @Muhtasim-Masum-Hasnayen](https://github.com/Muhtasim-Masum-Hasnayen)** — it is free and it really helps this project reach more students. Thank you! 💚
 
 </div>
 
@@ -68,7 +68,7 @@ Full guide with troubleshooting: **[SETUP.md](SETUP.md)**
 If this template saved you time, please:
 
 - ⭐ **Star this repo**
-- 👤 **[Follow @YOUR_USERNAME](https://github.com/YOUR_USERNAME)**
+- 👤 **[Follow @Muhtasim-Masum-Hasnayen](https://github.com/Muhtasim-Masum-Hasnayen)**
 - 🔁 Share it with your CSE friends
 
 Every profile built with DevVerse carries a small *"crafted by @YOUR_USERNAME"* credit and a star/follow button — that is the only thing asked in return (see [LICENSE](LICENSE)).
@@ -77,4 +77,4 @@ Every profile built with DevVerse carries a small *"crafted by @YOUR_USERNAME"* 
 
 DevVerse License (MIT + Attribution) — free to use, modify and share; the creator credit must stay. See [LICENSE](LICENSE).
 
-<div align="center"><sub>Made with 💚 by <a href="https://github.com/YOUR_USERNAME">YOUR_NAME</a></sub></div>
+<div align="center"><sub>Made with 💚 by <a href="https://github.com/Muhtasim-Masum-Hasnayen">Muhtasim Masum Hasnayen</a></sub></div>
