@@ -10,6 +10,8 @@
 const fs = require('fs');
 const path = require('path');
 
+// Split on purpose so brand.js does not rewrite this check.
+const PLACEHOLDER = 'YOUR_' + 'USERNAME';
 const CANONICAL_REPO = 'Muhtasim-Masum-Hasnayen/devverse-profile'; // <- set by scripts/brand.js
 
 function valid(c) {
@@ -19,7 +21,7 @@ function valid(c) {
 async function loadCreator(root) {
   const local = JSON.parse(fs.readFileSync(path.join(root, 'creator.json'), 'utf8'));
   local.repo = CANONICAL_REPO;
-  if (!CANONICAL_REPO.includes('YOUR_USERNAME') && !process.env.DEVVERSE_OFFLINE) {
+  if (!CANONICAL_REPO.includes(PLACEHOLDER) && !process.env.DEVVERSE_OFFLINE) {
     try {
       const ctrl = new AbortController();
       const timer = setTimeout(() => ctrl.abort(), 6000);
