@@ -10,7 +10,7 @@
 const fs = require('fs');
 const path = require('path');
 
-const CANONICAL_REPO = 'YOUR_USERNAME/devverse-profile'; // <- set by scripts/brand.js
+const CANONICAL_REPO = 'Muhtasim-Masum-Hasnayen/devverse-profile'; // <- set by scripts/brand.js
 
 function valid(c) {
   return c && typeof c.github === 'string' && /^[A-Za-z0-9-]{1,39}$/.test(c.github) && typeof c.name === 'string';
