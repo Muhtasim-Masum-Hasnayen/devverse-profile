@@ -8,9 +8,9 @@
 
 **Fork. Edit one file. Go live.**
 
-<a href="https://github.com/YOUR_USERNAME/devverse-profile/generate"><img src="https://img.shields.io/badge/USE%20THIS%20TEMPLATE-00ff41?style=for-the-badge&logo=github&logoColor=black" alt="Use this template"/></a>
-<a href="https://github.com/YOUR_USERNAME/devverse-profile/stargazers"><img src="https://img.shields.io/github/stars/YOUR_USERNAME/devverse-profile?style=for-the-badge&logo=github&label=STARS&color=ffd700&labelColor=051a0d" alt="Stars"/></a>
-<a href="https://github.com/YOUR_USERNAME"><img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&logo=github&label=FOLLOW&color=19d3a2&labelColor=051a0d" alt="Followers"/></a>
+<a href="https://github.com/Muhtasim-Masum-Hasnayen/devverse-profile/generate"><img src="https://img.shields.io/badge/USE%20THIS%20TEMPLATE-00ff41?style=for-the-badge&logo=github&logoColor=black" alt="Use this template"/></a>
+<a href="https://github.com/Muhtasim-Masum-Hasnayen/devverse-profile/stargazers"><img src="https://img.shields.io/github/stars/YOUR_USERNAME/devverse-profile?style=for-the-badge&logo=github&label=STARS&color=ffd700&labelColor=051a0d" alt="Stars"/></a>
+<a href="https://github.com/Muhtasim-Masum-Hasnayen"><img src="https://img.shields.io/github/followers/Muhtasim-Masum-Hasnayen?style=for-the-badge&logo=github&label=FOLLOW&color=19d3a2&labelColor=051a0d" alt="Followers"/></a>
 
 > ## ⭐ Enjoying DevVerse?
 > **Please [star this repository](https://github.com/Muhtasim-Masum-Hasnayen/devverse-profile)** and **[follow @Muhtasim-Masum-Hasnayen](https://github.com/Muhtasim-Masum-Hasnayen)** — it is free and it really helps this project reach more students. Thank you! 💚
@@ -71,7 +71,7 @@ If this template saved you time, please:
 - 👤 **[Follow @Muhtasim-Masum-Hasnayen](https://github.com/Muhtasim-Masum-Hasnayen)**
 - 🔁 Share it with your CSE friends
 
-Every profile built with DevVerse carries a small *"crafted by @YOUR_USERNAME"* credit and a star/follow button — that is the only thing asked in return (see [LICENSE](LICENSE)).
+Every profile built with DevVerse carries a small *"crafted by @Muhtasim-Masum-Hasnayen"* credit and a star/follow button — that is the only thing asked in return (see [LICENSE](LICENSE)).
 
 ## 📄 License
 
