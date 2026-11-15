@@ -7,8 +7,8 @@
 # =====================================================================
 
 # ---------- Identity ----------
-name: "Your Name"
-github_username: "yourusername"     # <- CHANGE THIS (must match your GitHub username)
+name: "MASUM"
+github_username: "muhtasimmasum99-prog"     # <- CHANGE THIS (must match your GitHub username)
 role: "CSE Student | Cyber Security Learner"
 location: "Dhaka, Bangladesh"
 bio:
@@ -17,7 +17,7 @@ bio:
 
 # ---------- Look & feel ----------
 # matrix | cyberpunk | dracula | tokyo | ocean
-theme: matrix
+theme: cyberpunk
 
 # Lines that type out under your banner (your name greeting is added automatically)
 taglines:
