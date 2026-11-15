@@ -2,7 +2,6 @@ name: Build Profile
 
 on:
   push:
-    branches: [main, master]
     paths: ["config.yml"]
   schedule:
     - cron: "0 */6 * * *"      # refresh joke / assets every 6 hours

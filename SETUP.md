@@ -29,7 +29,7 @@ Open `config.yml` in the GitHub web editor (pencil icon) and change:
 **Settings → Actions → General → Workflow permissions → Read and write permissions → Save.**
 
 ## 4. Run the workflows once
-**Actions** tab → pick each workflow → **Run workflow**:
+After committing your `config.yml` edit, **Build Profile** should run automatically on the branch you edited. For the first setup, or if it did not start, open the **Actions** tab, enable the workflow if GitHub asks, then choose each workflow → **Run workflow**:
 1. **Build Profile** — generates your `README.md` and animated SVGs
 2. **Contribution Snake** — creates the snake (stored on an `output` branch)
 3. **3D Contribution Graph** — creates the 3D graph
@@ -42,8 +42,10 @@ Open `github.com/<your-username>`.
 ---
 
 ## Troubleshooting
-- **Nothing happens / "Setup mode" in the log** → `github_username` in `config.yml` is still `yourusername`.
+- **No Build Profile run appears after committing `config.yml`** → enable Actions/workflows in the **Actions** tab, then run **Build Profile** manually once. The workflow runs on a `config.yml` push on any branch.
+- **"Setup mode" in the log** → `github_username` in `config.yml` is still `yourusername`.
 - **Workflow fails with a permission error** → redo step 3.
+- **Workflow ran but the README did not change** → open the **Build Profile** run and check its log. Confirm `github_username` is your username; also confirm this public repo is named exactly after your username so GitHub displays it as your profile README.
 - **Snake / 3D graph image is broken** → run those two workflows once and wait ~1 minute. The README snake needs the `output` branch to exist.
 - **Image looks old** → GitHub caches images; hard-refresh (Ctrl+Shift+R).
 - **A skill icon is blank** → the ID does not exist on skillicons.dev; check the spelling.
