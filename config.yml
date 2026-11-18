@@ -17,7 +17,7 @@ bio:
 
 # ---------- Look & feel ----------
 # matrix | cyberpunk | dracula | tokyo | ocean
-theme: cyberpunk
+theme: ocean
 
 # Lines that type out under your banner (your name greeting is added automatically)
 taglines:
