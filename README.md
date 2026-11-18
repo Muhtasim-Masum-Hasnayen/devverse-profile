@@ -5,7 +5,7 @@
 
 <img src="assets/typing.svg" width="100%" alt="typing intro"/>
 
-<img src="https://komarev.com/ghpvc/?username=muhtasimmasum99-prog&label=PROFILE+VIEWS&color=00f0ff&labelColor=120a22&style=for-the-badge" alt="profile views"/>
+<img src="https://komarev.com/ghpvc/?username=muhtasimmasum99-prog&label=PROFILE+VIEWS&color=38bdf8&labelColor=071b2e&style=for-the-badge" alt="profile views"/>
 
 </div>
 
@@ -35,12 +35,12 @@
 
 <div align="center">
 <img src="assets/h-stats.svg" width="100%" alt="github stats"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=muhtasimmasum99-prog&rank_icon=github&show_icons=true&bg_color=120a22&title_color=00f0ff&text_color=ececff&icon_color=ff2a6d&border_color=3a1d6e&hide_border=false" alt="stats"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhtasimmasum99-prog&layout=compact&show_icons=true&bg_color=120a22&title_color=00f0ff&text_color=ececff&icon_color=ff2a6d&border_color=3a1d6e&hide_border=false" alt="top languages"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=muhtasimmasum99-prog&rank_icon=github&show_icons=true&bg_color=071b2e&title_color=38bdf8&text_color=e0f4ff&icon_color=22d3ee&border_color=164a6e&hide_border=false" alt="stats"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhtasimmasum99-prog&layout=compact&show_icons=true&bg_color=071b2e&title_color=38bdf8&text_color=e0f4ff&icon_color=22d3ee&border_color=164a6e&hide_border=false" alt="top languages"/>
 <br/>
-<img src="https://streak-stats.demolab.com?user=muhtasimmasum99-prog&background=120a22&ring=00f0ff&fire=ff2a6d&currStreakNum=ececff&sideNums=ececff&currStreakLabel=00f0ff&sideLabels=ff2a6d&dates=8a7fb8&stroke=3a1d6e&border=3a1d6e" alt="streak"/>
+<img src="https://streak-stats.demolab.com?user=muhtasimmasum99-prog&background=071b2e&ring=38bdf8&fire=22d3ee&currStreakNum=e0f4ff&sideNums=e0f4ff&currStreakLabel=38bdf8&sideLabels=22d3ee&dates=6fa3c4&stroke=164a6e&border=164a6e" alt="streak"/>
 <br/>
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=muhtasimmasum99-prog&bg_color=120a22&color=ececff&line=00f0ff&point=fcee0a&area=true&area_color=00f0ff&hide_border=true&title_color=00f0ff" alt="activity graph"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=muhtasimmasum99-prog&bg_color=071b2e&color=e0f4ff&line=38bdf8&point=a7f3d0&area=true&area_color=38bdf8&hide_border=true&title_color=38bdf8" alt="activity graph"/>
 </div>
 
 <div align="center">
@@ -57,9 +57,9 @@
 
 <img src="assets/footer.svg" width="100%" alt="DevVerse profile template by @Muhtasim-Masum-Hasnayen"/>
 
-<a href="https://github.com/Muhtasim-Masum-Hasnayen/devverse-profile"><img src="https://img.shields.io/github/stars/Muhtasim-Masum-Hasnayen/devverse-profile?style=for-the-badge&logo=github&label=%E2%AD%90%20STAR%20THE%20TEMPLATE&color=00f0ff&labelColor=120a22&logoColor=00f0ff" alt="Star the template"/></a>
-<a href="https://github.com/Muhtasim-Masum-Hasnayen"><img src="https://img.shields.io/github/followers/Muhtasim-Masum-Hasnayen?style=for-the-badge&logo=github&label=FOLLOW%20%40Muhtasim-Masum-Hasnayen&color=ff2a6d&labelColor=120a22&logoColor=ff2a6d" alt="Follow Muhtasim-Masum-Hasnayen"/></a>
-<a href="https://github.com/Muhtasim-Masum-Hasnayen/devverse-profile/generate"><img src="https://img.shields.io/badge/GET%20THIS%20PROFILE-USE%20TEMPLATE-fcee0a?style=for-the-badge&logo=rocket&labelColor=120a22&logoColor=fcee0a" alt="Use this template"/></a>
+<a href="https://github.com/Muhtasim-Masum-Hasnayen/devverse-profile"><img src="https://img.shields.io/github/stars/Muhtasim-Masum-Hasnayen/devverse-profile?style=for-the-badge&logo=github&label=%E2%AD%90%20STAR%20THE%20TEMPLATE&color=38bdf8&labelColor=071b2e&logoColor=38bdf8" alt="Star the template"/></a>
+<a href="https://github.com/Muhtasim-Masum-Hasnayen"><img src="https://img.shields.io/github/followers/Muhtasim-Masum-Hasnayen?style=for-the-badge&logo=github&label=FOLLOW%20%40Muhtasim-Masum-Hasnayen&color=22d3ee&labelColor=071b2e&logoColor=22d3ee" alt="Follow Muhtasim-Masum-Hasnayen"/></a>
+<a href="https://github.com/Muhtasim-Masum-Hasnayen/devverse-profile/generate"><img src="https://img.shields.io/badge/GET%20THIS%20PROFILE-USE%20TEMPLATE-a7f3d0?style=for-the-badge&logo=rocket&labelColor=071b2e&logoColor=a7f3d0" alt="Use this template"/></a>
 
 <sub>Like this profile? ⭐ <b>star the template</b> and 👤 <b>follow <a href="https://github.com/Muhtasim-Masum-Hasnayen">@Muhtasim-Masum-Hasnayen</a></b> to support the creator.</sub>
 
